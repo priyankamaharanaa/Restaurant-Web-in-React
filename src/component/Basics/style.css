@@ -213,3 +213,8 @@
     opacity: 1;
     transform: translatey(-2px);
   }
+
+  span.card-tag.subtle {
+    color: black;
+    background-color: rgb(28, 233, 28);
+}

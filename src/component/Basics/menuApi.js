@@ -2,48 +2,48 @@ const Menu = [
     {
       id: 1,
       image: "images/maggi.jpg",
-      name: "maggi",
+      name: "Maggie",
       category: "breakfast",
       price: "12₹",
       description:
-        "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Delicious, steaming hot Maggie noodles cooked to perfection, flavored with a blend of spices and fresh veggies for a comforting, flavorful treat.",
     },
   
     {
       id: 2,
       image: "images/allupakoida.jpg",
-      name: "allu pakoida",
+      name: "Aloo Pakoda",
       category: "evening",
       price: "20₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Golden-crisp aloo pakoda, made with spiced potato slices dipped in gram flour batter, fried to perfection, and served with tangy chutneys,these irresistible fritters are the perfect snack to savor with a cup of tea or as a delightful appetizer.",
     },
     {
       id: 3,
       image: "images/corn.jpg",
-      name: "corn",
+      name: "Corn",
       category: "breakfast",
       price: "10₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Freshly char-grilled roasted corn, coated with a generous layer of butter, sprinkled with a flavorful mix of tangy spices, and finished with a squeeze of fresh lemon. A smoky and savory treat perfect for any occasion!",
     },
     {
       id: 4,
       image: "../images/chola.jpg",
-      name: "chola",
+      name: "Chole",
       category: "lunch",
       price: "50₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Rich and flavorful chole, slow-cooked chickpeas in a spiced tomato-based gravy, served with fresh herbs for an authentic taste of Indian cuisine.",
     },
     {
       id: 5,
       image: "../images/pizza.jpg",
-      name: "pizza",
+      name: "Pizza",
       category: "evening",
       price: "80₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Freshly baked pizza with a crispy crust, topped with gooey cheese, flavorful sauce, and a variety of fresh toppings to suit your taste.",
     },
     {
       id: 6,
@@ -52,7 +52,7 @@ const Menu = [
       category: "dinner",
       price: "180₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "A sumptuous non-veg thali featuring flavorful curries, tender meats, aromatic rice, freshly baked bread, and traditional sides for a complete meal experience.",
     },
     {
       id: 7,
@@ -61,7 +61,7 @@ const Menu = [
       category: "dinner",
       price: "60₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Indulge in our delectable selection of traditional sweets, from creamy desserts to rich, syrupy treats, perfectly crafted to satisfy your sweet cravings.",
     },
     {
       id: 8,
@@ -70,16 +70,16 @@ const Menu = [
       category: "lunch",
       price: "60₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Comforting Rajma rice, featuring tender kidney beans cooked in a rich, spiced gravy, served with aromatic basmati rice for a wholesome, satisfying meal.",
     },
     {
       id: 9,
       image: "../images/samosa.jpg",
-      name: "samaso",
+      name: "samosas",
       category: "evening",
       price: "10₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "Crispy, golden-brown samosas filled with a spiced mixture of potatoes and peas, served hot with tangy chutneys for the perfect bite.",
     },
     
   ];
